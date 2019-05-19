@@ -2,4 +2,4 @@
 
 password: infected
 
-All samples provided only for enducation purpuses. 
+All samples are provided only for educational purposes!
